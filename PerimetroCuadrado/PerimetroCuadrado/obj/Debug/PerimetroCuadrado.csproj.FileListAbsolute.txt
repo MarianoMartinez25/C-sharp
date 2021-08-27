@@ -1,0 +1,7 @@
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.exe.config
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.exe
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\bin\Debug\PerimetroCuadrado.pdb
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.csproj.AssemblyReference.cache
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.exe
+C:\Users\msaid\Desktop\Curso C#\PerimetroCuadrado\PerimetroCuadrado\obj\Debug\PerimetroCuadrado.pdb

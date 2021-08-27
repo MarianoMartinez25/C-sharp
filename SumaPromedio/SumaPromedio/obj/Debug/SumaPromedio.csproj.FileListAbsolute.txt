@@ -1,0 +1,7 @@
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\bin\Debug\SumaPromedio.exe.config
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\bin\Debug\SumaPromedio.exe
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\bin\Debug\SumaPromedio.pdb
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\obj\Debug\SumaPromedio.csproj.AssemblyReference.cache
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\obj\Debug\SumaPromedio.csproj.CoreCompileInputs.cache
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\obj\Debug\SumaPromedio.exe
+C:\Users\msaid\Desktop\Curso C#\SumaPromedio\SumaPromedio\obj\Debug\SumaPromedio.pdb

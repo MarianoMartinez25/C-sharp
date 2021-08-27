@@ -1,0 +1,7 @@
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\bin\Debug\SumaProducto4Numeros.exe.config
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\bin\Debug\SumaProducto4Numeros.exe
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\bin\Debug\SumaProducto4Numeros.pdb
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\obj\Debug\SumaProducto4Numeros.csproj.AssemblyReference.cache
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\obj\Debug\SumaProducto4Numeros.csproj.CoreCompileInputs.cache
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\obj\Debug\SumaProducto4Numeros.exe
+C:\Users\msaid\Desktop\Curso C#\SumaProducto4Numeros\SumaProducto4Numeros\obj\Debug\SumaProducto4Numeros.pdb

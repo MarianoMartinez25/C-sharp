@@ -1,0 +1,6 @@
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\bin\Debug\EstructuraRepetitivaFor2.exe.config
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\bin\Debug\EstructuraRepetitivaFor2.exe
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\bin\Debug\EstructuraRepetitivaFor2.pdb
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\obj\Debug\EstructuraRepetitivaFor2.csproj.CoreCompileInputs.cache
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\obj\Debug\EstructuraRepetitivaFor2.exe
+C:\Users\msaid\Desktop\Curso C#\EstructuraRepetitivaFor2\EstructuraRepetitivaFor2\obj\Debug\EstructuraRepetitivaFor2.pdb
